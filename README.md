@@ -1,4 +1,4 @@
-## CrazySonic
+# CrazySonic
 
 The awful source code to my awful ROM hack, CrazySonic. That's right, the "Polygon Jim award winning" hack from SHC2015, as featured on SomecallmeJohnny, MegaGWolf, and Vinesauce, that everyone loves and also hates, here for archival purposes. Feel free to take a look at the code, but beware, the code that I have written is from 2015, and is mostly spaghetti and not formatted consistently at all. I made this hack while I was still learning the ropes of programming for the Sega Genesis and working with 68000 assembly.
 
